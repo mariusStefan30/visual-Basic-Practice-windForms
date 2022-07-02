@@ -1,2 +1,2 @@
-# visual-Basic-Practice-windForms
+# Visual-Basic-Practice-windForms
 practice
