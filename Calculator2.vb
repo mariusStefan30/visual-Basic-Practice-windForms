@@ -2,7 +2,7 @@
 Imports System.Text
 
 
-Partial Public Class btnCalculate
+Partial Public Class Calculator2
     Public Sub New()
         InitializeComponent()
     End Sub
